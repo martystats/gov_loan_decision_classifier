@@ -1,0 +1,18 @@
+{
+    "created_on": "2026-03-03T15:08:43.212846",
+    "python_version": "3.14.0 (tags/v3.14.0:ebf955d, Oct  7 2025, 10:15:03) [MSC v.1944 64 bit (AMD64)]",
+    "model": "GradientBoostingClassifier (Tuned)",
+    "best_params": {
+        "subsample": 0.8,
+        "n_estimators": 300,
+        "min_samples_split": 20,
+        "min_samples_leaf": 4,
+        "max_features": "log2",
+        "max_depth": 5,
+        "learning_rate": 0.05
+    },
+    "cv_best_score_f1_macro": 0.6956940223447644,
+    "n_features": 156,
+    "n_train_rows": 32444,
+    "n_test_rows": 8111
+}
