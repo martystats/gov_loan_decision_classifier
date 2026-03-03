@@ -184,7 +184,7 @@ Final model selected as official deployment candidate after validation on test s
 
 ## Author
 
-Benedette Ogochukwu Chukwu  
+Martin Ude  
 Machine Learning & Data Science Portfolio Project  
 
 ---
